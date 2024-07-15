@@ -35,4 +35,5 @@ function HelloWorldComponent(props: { msg: string }) {
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   `;
 }
-export default HelloWorldComponent;
+
+export default HelloWorldComponent
